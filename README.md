@@ -50,8 +50,7 @@ A real-time cryptocurrency tracking web application built with React, Redux, and
 ## Demo
 
 ![Crypto Tracker Demo]
-
-*Replace the above link with your actual demo GIF or video URL.*
+https://crypto-tracker-sneha.vercel.app/
 
 ---
 
