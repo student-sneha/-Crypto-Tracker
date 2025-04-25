@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { cryptoAssets } from "../utils/sampleData";
+import { cryptoAssets } from "../utils/SampleData";
 
 const cryptoSlice = createSlice({
   name: "crypto",
